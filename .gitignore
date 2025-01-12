@@ -1,12 +1,11 @@
-"Arrow Engine\Debug"
-*idb
-*pdb
+"Arrow Engine\Arrow Engine\Debug"
+*.idb
+*.pdb
 *.dll
 *.sln
 "Arrow Engine\SFML-2.6.1"
 *.zip
 *.aseprite
-.vs/BogoSearch
 *.ipch
 "Arrow Engine\Arrow Engine\x64"
 \.vs
