@@ -1,13 +1,12 @@
-"Arrow Engine\Arrow Engine\Debug"
+"*\Arrow Engine\Debug"
 *.idb
 *.pdb
 *.dll
 *.sln
-"Arrow Engine\SFML-2.6.1"
+"*\SFML-2.6.1"
 *.zip
 *.aseprite
 *.ipch
-"Arrow Engine\Arrow Engine\x64"
+"*\Arrow Engine\x64"
 \.vs
 *.vcxproj*
-*.sln
