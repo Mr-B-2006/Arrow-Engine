@@ -1,11 +1,11 @@
-**\*.idb
-**\*.pdb
+*.idb
+*.pdb
 *.dll
 *.sln
-"\SFML-2.6.1"
+\SFML-2.6.1
 *.zip
-**\*.aseprite
+*.aseprite
 *.ipch
-"**\x64"
+\Arrow Engine\x64\debug
 \.vs
 *.vcxproj*
